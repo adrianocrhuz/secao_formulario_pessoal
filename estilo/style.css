@@ -109,7 +109,7 @@ form textarea {
         margin-bottom: 30px;
     }
 }
-@media (max-width: 4800px) {
+@media (max-width: 480px) {
     .contact-form p {
         font-size: 0.8rem;
     }
